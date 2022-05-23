@@ -1,8 +1,8 @@
 # Paper_Reading_and_Pytorch
 
-* (School of Computer Science & Engineering 🖥️, Chung-Ang Univ.)
-* (School of Computer Science & Engineering 🖥️, Chung-Ang Univ.)
-* (School of Industrial Security :lock:, Chung-Ang , Univ.)
+* 김태윤(School of Computer Science & Engineering 🖥️, Chung-Ang Univ.)
+* 오용희(School of Computer Science & Engineering 🖥️, Chung-Ang Univ.)
+* 고하은(School of Industrial Security :lock:, Chung-Ang , Univ.)
 
 ## To Do List
 
